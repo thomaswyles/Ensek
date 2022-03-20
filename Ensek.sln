@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EnsekDatabase", "EnsekDatabase\EnsekDatabase.sqlproj", "{CBABEC0D-E3A9-4A99-9DD2-4B4B2A94F50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsekAPI", "EnsekAPI\EnsekAPI.csproj", "{0B5F2D01-27D9-4AD8-96FC-FF4748EAE602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBABEC0D-E3A9-4A99-9DD2-4B4B2A94F50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBABEC0D-E3A9-4A99-9DD2-4B4B2A94F50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBABEC0D-E3A9-4A99-9DD2-4B4B2A94F50B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CBABEC0D-E3A9-4A99-9DD2-4B4B2A94F50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBABEC0D-E3A9-4A99-9DD2-4B4B2A94F50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBABEC0D-E3A9-4A99-9DD2-4B4B2A94F50B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0B5F2D01-27D9-4AD8-96FC-FF4748EAE602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5F2D01-27D9-4AD8-96FC-FF4748EAE602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5F2D01-27D9-4AD8-96FC-FF4748EAE602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5F2D01-27D9-4AD8-96FC-FF4748EAE602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFE0278-710A-4FBA-91EF-48DE1346B261}
+	EndGlobalSection
+EndGlobal
